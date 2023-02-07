@@ -92,8 +92,7 @@ To make extra parts we use a small 3D printer. The design of the parts is done b
 <img alt="Teamobjekt" src="Images/Teamobjekt" style="float: right; margin-left: 15px" width="230" />
 The thought behind the idea of the design of our Teamobject had its origin with our Team mascot, a teddy bear. On top of the cylindric shape you can find the miniature bear, which is symbolic for the mascot. We chose the shape of a cylinder, due to it being a good performing shape, when it comes to a practicable transportation by the Robot and security while being staked on the pole. Blender and FreeCad had been our choice of 3D designing programs. They have a great compatibility and complete each other with their features perfectly. The process started by designing an object similar to a cup (the cylindric shape) and a little bear. The biggest problem occured while printing and adjusting sizes of the different shaped objects. We weren’t able to print the bear and cylinder together, due to its missing stability in the center area. The design of the cylinder started easily by adding a cylinder an subtracing another smaller one from the bigger one, to create a cavity. The more difficult part had been designing the bear, which we achieved by adding deformed ball shapes to eachother to create the look of a stuffed animal. Both of them where added to each other and printed in our 3D printer.
 
-<p style="page-break-after: always;">&nbsp;</p>
-<p style="page-break-before: always;">&nbsp;</p>
+
 ### Documentation
 **15/09/2022**
 We dissasembled the upper parts of our robot. Only the drivetrain staid, because we really liked the small and compact design of it. This will also be very helpful in this season, because of the small space between the different junctions.
