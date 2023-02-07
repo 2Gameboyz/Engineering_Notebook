@@ -123,7 +123,7 @@ The motors are now held in place by four screws.
 
 **04/10/2022**
 We printed the whinch.
-<img alt="intake prototype" src="Images/intake_prototype.jpg" style="float: right; margin-left: 15px; margin-top: 15px margin-bottom: 15px" width="210" /> We have designed the first prototype of the intake system. It consists out of two rubber wheels and one motor. The wheels rotate in diferent directions to be able to suck the cone in.
+<img alt="intake prototype" src="Images/intake_prototype.jpg"  width="210" /> We have designed the first prototype of the intake system. It consists out of two rubber wheels and one motor. The wheels rotate in diferent directions to be able to suck the cone in.
 The drivetrain was conected to the control-hub in order to test it. A bracket for the control-hub and expansion-hub was added.
 
 **06/10/2022**
@@ -245,7 +245,7 @@ Today we updated  the Robot controller and Driver station firmware to version 8.
 **10/06/2022**
 Today we updated the firmware of our phones and hubs and where setting them up to having an a and b set phone and control hub  to working together. The rest work up as backup in the case that both control hubs have failed. We have tried to find a bug in our field navigation system which made driving impossible and we created a motor test program for the building team so they can test the motors. 
 
-1**0/11/2022 **
+**10/11/2022**
 Today we created the servo test program. Have fixed the matrix in our field navigation program trying to fix the driving problem. We also are adding new branches for the autonomous and the FullControll and updated the software of our laptops. 
 
 **10/13/2022**
@@ -261,7 +261,7 @@ Today we got our playing field and assembled it. After that we completed the ser
 **11/08/2022**
 Today we fixed the error with the missing calibration file for the gyro. Also we updated our laptop software. 
 
-1**1/10/2022 **
+**11/10/2022**
 Today we fixed an issue with the field navigation class where the robot had motor speed out of range. We also made the base autonomous able to drive to specified positions. 
 
 **11/15/2022**
@@ -311,11 +311,13 @@ Today we almost completed the autonomous.
 ## Team Information
 
 ### Team Organisation
+<img alt="Detection" src="Images/Basecamp.png" margin-left="15px" margin-right="15px" margin-top="15px" margin-bottom="15px" width="450" />
+
 The most outstanding fact about our team is that we are mainly organized by the students. In this case and connected to our school’s philosophy the two teachers are on the same level as the students. Our team captain Justin is moderating our discussions in the beginning of every meeting. The building and software captains Marius and Theodor take care of assigning tasks and communication between the parts of our team.
 The separate tasks are something we adopted from the american team RoHAWKtics at our first school exchange in march 2016. We have the two departments Software and Engineering within our team structure, with each an captain and each different students taking part in it.
 To use our team structure properly, to assign tasks and share documents we use the application Basecamp, which is often used by companies to organize themselves and is therefore perfect for our team organization. In the main part we have several “teams”, each for one part of tasks. The Software team mainly for writing down ideas and for sharing different documents. The Building team uses Basecamp nearly the same way by sharing files for 3D printing, documents, ideas etc.
 Mainly the team-captain with the help of our teachers and different team-members takes care about our budget, sponsors and about our trips to competitions. In the Outreach team all texts and files for the Engineering Notebook are concluded and the plans for events get developed. Another useful tool from Basecamp are Projects we assign for upcoming events, like the Scrimmage at Stuttgart or the Competition in Kaiserslautern. Also we post there timelines of the days of trips or general information like dates or reminders to bring several items.
-<img alt="Detection" src="Images/Basecamp.png" margin-left="15px" margin-right="15px" margin-top="15px" margin-bottom="15px" width="450" />
+Mainly the team-captain with the help of our teachers and different team-members takes care about our budget, sponsors and about our trips to competitions. In the Outreach team all texts and files for the Engineering Notebook are concluded and the plans for events get developed. Another useful tool from Basecamp are Projects we assign for upcoming events, like the Scrimmage at Stuttgart or the Competition in Kaiserslautern. Also we post there timelines of the days of trips or general information like dates or reminders to bring several items.
 Within every team and every project there are five categories. The Campfire, which is a group chat for all people within the team. The Message Board, where Messages and Announcements can be made. Docs & Files where documents can be uploaded, commented and shared. To-dos which can be assigned and a schedule to make assignments.
 
 
