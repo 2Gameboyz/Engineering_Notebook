@@ -7,8 +7,6 @@
 
 <h2 style="text-align: center; font-size: 30px">RobotIGS</h2>
 
-<p style="page-break-after: always;">&nbsp;</p>
-<p style="page-break-before: always;">&nbsp;</p>
 
 
 ## Summary
@@ -26,8 +24,7 @@ Back in Germany they soon founded there own FIRST Tech Challenge team and convin
 ### Team Structure
 To work as efficient as possible, we modelled our fields of activity after the american FRC team our predecessors worked with in 2016. We have a nominated team captain, a captain of the sofware department and a captain of the building department. These are pretty much just organizational positions, the team-captain and department-captains have to deal out tasks in their teams and in general. But they are neither higher in any command structure nor are their opinions worth more, except because of their larger experience. In addition, our mentors are always on an eye-level with the students and their words in discussions about the robot, the goals and the priorities count just as much.
 
-<p style="page-break-after: always;">&nbsp;</p>
-<p style="page-break-before: always;">&nbsp;</p>
+
 
 ## Table of Contents
 
@@ -35,7 +32,7 @@ To work as efficient as possible, we modelled our fields of activity after the a
    1. [Mechanisms](###Mechanisms)
    2. [TeamObject](###TeamObject)
    3. [3D-Printing](###3D-Printing)
-   4. [Documnetation](###Documentation)
+   4. [Documentation](###Documentation)
 2. [Coding](##Coding)
    1. [The control System](###The-control-system)
    2. [Autonomus](###Autonomus)
@@ -51,8 +48,7 @@ To work as efficient as possible, we modelled our fields of activity after the a
    6. [Business Plan](###Business-Plan)
    7. [Awards & Recognitions](###Awards-&-Recognitions)
 
-<p style="page-break-after: always;">&nbsp;</p>
-<p style="page-break-before: always;">&nbsp;</p>
+
 
 
 ## Building
@@ -208,13 +204,11 @@ junction centering mechanism
 The seccion began with the printing of the second team object and two small bears. After the team object was finished, it was painted in blue. 
 Another task done today was the fixing of the front montors. Some of the screws were loose, which resulted in some problems during testing.
 
-<p style="page-break-after: always;">&nbsp;</p>
-<p style="page-break-before: always;">&nbsp;</p>
 
 ## Coding
 
 ### Driver Controls
-![Controls](Controls.jpeg)
+![Controls](Images/Controls.jpeg)
 ### The control system
 We use inverse kinematics to calculate the coordinates of the robot based on the movement of the motors. This allows us to drive by coordinates on the field, which is more accurate than driving by time. To make this easier for new members, the software captain has written aclass that handles the logic behind it, making it easier to get started and understand the code more easily.
 
@@ -236,9 +230,6 @@ In order to recognize the signals, we have trained an AI in the form of an SSD n
 To use Github we use the application Gitkraken to make it easier for new members since the season Relic Recovery 2017/18. We use Github to give everyone access to the recent updated part of our code. So, all four core members of software can always work from their separated computer and in the end upload it. This is especially important, as we need to work parallel. Github has a lot of useful tools to communicate within the
 application, for example to describe the made changed in the code to easily find the version of code we need.
 Within one repository of code there are several branches, which are useful to work on different stages of player controlled and autonomous at the same time, while having a working code just in case. This season we used several so-called “branches” for our player controlled, for our tests with Vuforia, for our tests with the gyro and for several other testing things as for example the tests-tools for the building section of our team, to test individual motors and servos. To get up-to-date with the code is easy made with the pull button, to upload the code is more complicated. Before pushing the code, we can stage all changes we made or we can stage individual change we want to upload.
-
-<p style="page-break-after: always;">&nbsp;</p>
-<p style="page-break-before: always;">&nbsp;</p>
 
 ### Documentation
 Since kickoff: 
@@ -316,8 +307,6 @@ Today we used free hours to work on the autonomous.
 **01/26/2023**
 Today we almost completed the autonomous.
 
-<p style="page-break-after: always;">&nbsp;</p>
-<p style="page-break-before: always;">&nbsp;</p>
 
 ## Team Information
 
@@ -332,8 +321,6 @@ Within every team and every project there are five categories. The Campfire, whi
 
 ![processes](Images/Prozessablaufplan_RobotIGS.jpg)
 
-<p style="page-break-after: always;">&nbsp;</p>
-<p style="page-break-before: always;">&nbsp;</p>
 
 ### Sponsors
 
