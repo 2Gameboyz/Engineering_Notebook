@@ -58,18 +58,18 @@ To work as efficient as possible, we modelled our fields of activity after the a
 The drivetrain consists of three cross-ties structured like an H. On each side of the chassis are two mecanum wheels allowing the robot to drive in every diraction. The Robot is build in an H shaped form especially for stability, but also because the lift could then be placed right into the middle. The plan designing the chassis was to make it as small as possible so that the Robot would drive more easily between the different junctions. The four 223 RPM motors are placed on each end of the chassis with an angle of 90 degrees to the mecanum weels. They are connected to the wheel with gears. On the back of the robot is the control hub and one expansion hub. The battery is placed below the hubs. The rear motors are secured by some U-Channels. The allience-marker are placed on top of the protection. The hubs are enclosed with a plate to ensure their safety.
 
 #### Lift Mechanism
-<img alt="Detection" src="Images/image1.png" style="float: right; margin-left: 15px" width="110" />
-<img alt="Detection" src="Images/image3.png" style="float: left; margin-right: 15px" width="200" />
+<img alt="Detection" src="Images/image1.png" align="right" margin-left="15px" margin-right="15px" margin-top="15px" margin-bottom="15px" width="110" />
+<img alt="Detection" src="Images/image3.png" align="left" margin-left="15px" margin-right="15px" margin-top="15px" margin-bottom="15px" width="200" />
 In the center of the robot is the most important be able to score points in this season. The lift consists of five bars. They are connected to each other by four rails (red), allowing the Lift to be extended using one 117 RPM Motor. At the bottom of the last bar is the claw with his lift attached. The motor is connected with a rope that runs over several points and is connected to a spring on the last bar. It is one of many options, we considered and by far the simplest. The rope is pulled by the engine onto a self designed whinch. The tower expands upwards and brings the cup on the right hight. The hight of the tower depents on how much rope is rolled up onto the whinch. However if the motor keeps on pulling the rope, even if the tower is on the maximal hight, the rope will eventually tear and this would make the whole lifting mechanism useless. The countermeasure to this problem is to attache the end of the rope to a spring, wich would take the most of the excessive force from the motor by extending.
 
 #### Claw
-<img alt="Detection" src="Images/Claw.jpeg" style="float: left; margin-right: 15px; margin-top: 15px; margin-bottom: 15px" width="200" />
+<img alt="Detection" src="Images/Claw.jpeg" align="left" margin-left="15px" margin-right="15px" margin-top="15px" margin-bottom="15px" width="200" />
 The claw mechanism is fairly one of the most complex things build in the robot. First of all, it’s located at the lower end of the lift. It consists of 2 servos, which can close and open the claw by rotating. When it rotates forward it will drive a ball joint forward which presses on the claw to close it. When rotated backwards it will draw the ball joint backwards and pulls the claw open. 
-<img alt="Detection" src="Images/ClawUp.jpeg" style="float: right; margin-left: 15px; margin-top: 15px; margin-bottom: 15px" width="210" />
+<img alt="Detection" src="Images/ClawUp.jpeg" align="right" margin-left="15px" margin-right="15px" margin-top="15px" margin-bottom="15px" width="210" />
 The claw consists of two mutually 120 degrees angles. They have a particularly friction capable material strapped on, this should prevent the cone from falling down.
 
 #### Claw Lift
-<img alt="Detection" src="Images/ClawLift.jpeg" style="float: right; margin-left: 15px; margin-top: 15px" width="200" />
+<img alt="Detection" src="Images/ClawLift.jpeg" align="right" margin-left="15px" margin-right="15px" margin-top="15px" margin-bottom="15px" width="200" />
 The claw was expanded with a lifting mechanism. It’s used to tilt the claw upwards so the cone doesn’t touch the ground junctions while driving. In addition, it helps to aim for the junctions when the robot is driver-controlled or during the  autonomous-phase.
 To lift the claw, a servo is build above it onto the lift. The rotation of the servo is converted into a up-and-down-movement with a wooden stick. The stick is attached to the claw which is able to tilt due to it attachment to a axis
 
@@ -79,17 +79,18 @@ To fullfill the curent challenge, especially to recognice the Signal Sleeve temp
 
 After evaluate diffrent possible spots, the decision fell to attach the camera on the left hand side of the robot chasis. From this location, the camera is able to catch everything happening before the robot. Futhermore, it's one the only spots to attach the camera safely and without increasing the length or width of the robot. The attachment was build of a 4-hole U-Channel, which is attached vertical onto the Chassis. On to of the U-Channel, a servo was mounted. He turns the camera around the vertical axis if necessary. The size of the attaching-thread on the camera brougth up some problems: The screw needed to attach the camera was not compatible with all other screws and threads used to build the robot.
 
-<img alt="Detection" src="Images/attachment.jpeg" style="float: left; margin-right: 15px; margin-top: 15px margin-bottom: 15px" width="210" />
+<img alt="Detection" src="Images/attachment.jpeg" align="left" margin-left="15px" margin-right="15px" margin-top="15px" margin-bottom="15px" width="210" />
 
 After some brainstorming, the decision fell on a small piece of wood as a connection piece. A screw with the corect size to connect with the camera-thread was put in the center of the wood after a goodsized hole was drilled. Two more holes were drilled left and right of the center. Those are used to attacht the piece of wood onto the servo. This camera attachment fullfills all requirements.
+
 ### 3D-Printing
-<img alt="Detection" src="Images/Seilwinde.png" style="float: right; margin-left: 15px" width="100" />
-<img alt="Detection" src="Images/Servo.png" style="float: right; margin-left: 15px" width="140" />
+<img alt="Detection" src="Images/Seilwinde.png" align="right" margin-left="15px" margin-right="15px" margin-top="15px" margin-bottom="15px" width="100" />
+<img alt="Detection" src="Images/Servo.png" align="right" margin-left="15px" margin-right="15px" margin-top="15px" margin-bottom="15px" width="140" />
 <img alt="Detection" src="Images/Schieber.png" style="float: right; margin-left: 15px" width="183" />
 To make extra parts we use a small 3D printer. The design of the parts is done by us, using FreeCAD. This is a free alternative to Solidworks, which we have now abandoned, since we have switched completely to free and open source software. Among other things, we have installed archlinux on all RobotIGS laptops, so that we are no longer dependent on windows.
 
 ### Team Object
-<img alt="Teamobjekt" src="Images/Teamobjekt" style="float: right; margin-left: 15px" width="230" />
+<img alt="Teamobjekt" src="Images/Teamobjekt" align="right" margin-left="15px" margin-right="15px" margin-top="15px" margin-bottom="15px" width="230" />
 The thought behind the idea of the design of our Teamobject had its origin with our Team mascot, a teddy bear. On top of the cylindric shape you can find the miniature bear, which is symbolic for the mascot. We chose the shape of a cylinder, due to it being a good performing shape, when it comes to a practicable transportation by the Robot and security while being staked on the pole. Blender and FreeCad had been our choice of 3D designing programs. They have a great compatibility and complete each other with their features perfectly. The process started by designing an object similar to a cup (the cylindric shape) and a little bear. The biggest problem occured while printing and adjusting sizes of the different shaped objects. We weren’t able to print the bear and cylinder together, due to its missing stability in the center area. The design of the cylinder started easily by adding a cylinder an subtracing another smaller one from the bigger one, to create a cavity. The more difficult part had been designing the bear, which we achieved by adding deformed ball shapes to eachother to create the look of a stuffed animal. Both of them where added to each other and printed in our 3D printer.
 
 
@@ -222,7 +223,7 @@ The goal is, during the autonomous driving time, to put a cone onto the high jun
 At the beginning, the cone placed in the claw is gripped and the arm is raised a little, so that the robot is not hindered by the claw being placed on it. The robot moves forward a little to be able to recognize the pattern on the signal, whereby the parking zone is passed. First, the robot moves to the straight line where the highjunction is located. Due to driving inaccuracies and the added weights, the program specifies that it should drive 8cm further than necessary to be on the straight line. To ensure the alignment, frontal to the straight line, the robot moves backwards against the wall. Now it drives straight towards the highjuntion, raising the arm to the necessary height. Shortly before the arm is above the junction, the speed is reduced, which guarantees a safe lifting of the cone. Now the robot moves, depending on whether it could recognize the pattern on the signal, into the assigned parking zone or into the terminal.
 
 ### Signal-Sleeve Detection
-<img alt="Detection" src="Images/detection.png" style="float: right; margin-left: 15px" width="300" />
+<img alt="Detection" src="Images/detection.png" align="right" margin-left="15px" margin-right="15px" margin-top="15px" margin-bottom="15px" width="300" />
 In order to recognize the signals, we have trained an AI in the form of an SSD network, which can recognize our self-designed signal sleeve. As soon as the camera has recognized the signal with a certain accuracy, the robot continues the autonomous. If it does not recognize the signal in a given time, it will be parked in the terminal instead of the displayed zone at the end.
 
 ### Github
@@ -314,7 +315,7 @@ The most outstanding fact about our team is that we are mainly organized by the 
 The separate tasks are something we adopted from the american team RoHAWKtics at our first school exchange in march 2016. We have the two departments Software and Engineering within our team structure, with each an captain and each different students taking part in it.
 To use our team structure properly, to assign tasks and share documents we use the application Basecamp, which is often used by companies to organize themselves and is therefore perfect for our team organization. In the main part we have several “teams”, each for one part of tasks. The Software team mainly for writing down ideas and for sharing different documents. The Building team uses Basecamp nearly the same way by sharing files for 3D printing, documents, ideas etc.
 Mainly the team-captain with the help of our teachers and different team-members takes care about our budget, sponsors and about our trips to competitions. In the Outreach team all texts and files for the Engineering Notebook are concluded and the plans for events get developed. Another useful tool from Basecamp are Projects we assign for upcoming events, like the Scrimmage at Stuttgart or the Competition in Kaiserslautern. Also we post there timelines of the days of trips or general information like dates or reminders to bring several items.
-<img alt="Detection" src="Images/Basecamp.png" style=" margin-left: 15px; margin-top: 15px; margin-bottom: 15px" width="450" />
+<img alt="Detection" src="Images/Basecamp.png" margin-left="15px" margin-right="15px" margin-top="15px" margin-bottom="15px" width="450" />
 Within every team and every project there are five categories. The Campfire, which is a group chat for all people within the team. The Message Board, where Messages and Announcements can be made. Docs & Files where documents can be uploaded, commented and shared. To-dos which can be assigned and a schedule to make assignments.
 
 
@@ -324,7 +325,7 @@ Within every team and every project there are five categories. The Campfire, whi
 ### Sponsors
 
 #### Novelis
-<img alt="Detection" src="Images/Novelis.jpeg" style="margin-left: 15px" width="400" />
+<img alt="Detection" src="Images/Novelis.jpeg" margin-left="15px" margin-right="15px" margin-top="15px" margin-bottom="15px" width="400" />
 Novelis a special sponsor of our team. Since our first year they have donated multiple times money to us but also supported us with some expert reports from their trainees and the teacher of their trainees. Last year they became our longterm partner which means we are now getting yearly support from them.
 
 #### Georg-Christoph-Lichtenberg Gesamtschule and friends’ association “Pro Gesamtschule”**
