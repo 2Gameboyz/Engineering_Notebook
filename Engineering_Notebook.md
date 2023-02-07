@@ -87,9 +87,9 @@ After evaluate diffrent possible spots, the decision fell to attach the camera o
 
 After some brainstorming, the decision fell on a small piece of wood as a connection piece. A screw with the corect size to connect with the camera-thread was put in the center of the wood after a goodsized hole was drilled. Two more holes were drilled left and right of the center. Those are used to attacht the piece of wood onto the servo. This camera attachment fullfills all requirements.
 ### 3D-Printing
-<img alt="Detection" src="Seilwinde.png" style="float: right; margin-left: 15px" width="100" />
-<img alt="Detection" src="Servo.png" style="float: right; margin-left: 15px" width="140" />
-<img alt="Detection" src="Schieber.png" style="float: right; margin-left: 15px" width="183" />
+<img alt="Detection" src="Images/Seilwinde.png" style="float: right; margin-left: 15px" width="100" />
+<img alt="Detection" src="Images/Servo.png" style="float: right; margin-left: 15px" width="140" />
+<img alt="Detection" src="Images/Schieber.png" style="float: right; margin-left: 15px" width="183" />
 To make extra parts we use a small 3D printer. The design of the parts is done by us, using FreeCAD. This is a free alternative to Solidworks, which we have now abandoned, since we have switched completely to free and open source software. Among other things, we have installed archlinux on all RobotIGS laptops, so that we are no longer dependent on windows.
 
 ### Team Object
@@ -330,7 +330,7 @@ Mainly the team-captain with the help of our teachers and different team-members
 Within every team and every project there are five categories. The Campfire, which is a group chat for all people within the team. The Message Board, where Messages and Announcements can be made. Docs & Files where documents can be uploaded, commented and shared. To-dos which can be assigned and a schedule to make assignments.
 
 
-![processes](Prozessablaufplan_RobotIGS.jpg)
+![processes](Images/Prozessablaufplan_RobotIGS.jpg)
 
 <p style="page-break-after: always;">&nbsp;</p>
 <p style="page-break-before: always;">&nbsp;</p>
